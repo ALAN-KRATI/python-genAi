@@ -1,4 +1,4 @@
-# 🐍 Python And GenAi Learning Journey
+# 🐍 Python And GenAi 
 
 This repository contains my structured learning and practice of **Python fundamentals** and GenAi, covering everything from basic concepts to Object-Oriented Programming (OOP).
 
